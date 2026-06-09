@@ -8,7 +8,7 @@ def main():
         "db1_fetch_from_web.py",
         "db2_fetch_content.py",
         "db3_sent_content_to_gemini.py",
-        os.path.join("rag", "embedding_env.py")
+        "embedding_env.py"
     ]
 
     for script in scripts:
