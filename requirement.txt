@@ -1,0 +1,9 @@
+crawl4ai
+pydantic
+pymongo
+google-genai
+sentence-transformers
+tqdm
+pandas
+streamlit
+python-dotenv
