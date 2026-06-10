@@ -1,9 +1,3 @@
-นี่คือไฟล์ `README.md` แบบสมบูรณ์และเป็นมืออาชีพที่ถูกเขียนขึ้นใหม่จากโค้ดระบบ **End-to-End Agentic RAG Financial News Pipeline & Dashboard** ของคุณครับ
-
-ระบุตั้งแต่ขั้นตอนการทำ Web Scraping, AI Data Extraction, Data Cleaning, Batch Sentiment Analysis (พร้อมระบบ Key Rotation), Vector Embedding ($BAAI/bge-m3$), จนถึงหน้า Dashboard และระบบแชทผู้ช่วยลงทุน (RAG System) ไว้อย่างละเอียดครับ
-
----
-
 ### โค้ด `README.md` สำหรับนำไปใช้งาน
 
 ```markdown
